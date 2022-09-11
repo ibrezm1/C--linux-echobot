@@ -31,11 +31,15 @@ ngrok config add-authtoken #your-authtoken#
 # Two methods to create bots
 
 ## Azure Bot Setup
-Follow this [link](https://docs.microsoft.com/en-us/azure/bot-service/abs-quickstart?view=azure-bot-service-4.0&tabs=multitenant) to create azure resource and link the app to Azure bot
+* Follow this [link](https://docs.microsoft.com/en-us/azure/bot-service/abs-quickstart?view=azure-bot-service-4.0&tabs=multitenant) to create azure resource and link the app to Azure bot
+* Will eventually have an application and one Azure bot service created 
 
 ## Via bot framework and Developer portal
+* Do all activities via the UI Developer portal only 
+* Eventually Only one application should be created 
+* You can do all activities from the Developer Portal
 
-Known issues 
+Known issues to be aware of : 
 * App settings should always be multitennant 
 * Do not use [perview](https://techcommunity.microsoft.com/t5/teams-developer/quot-manifest-parsing-has-failed-quot-in-developer-portal/m-p/3104733/page/3) in developer portal 
 
