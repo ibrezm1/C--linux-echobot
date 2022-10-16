@@ -43,4 +43,6 @@ Known issues to be aware of :
 * App settings should always be multitennant 
 * Do not use [perview](https://techcommunity.microsoft.com/t5/teams-developer/quot-manifest-parsing-has-failed-quot-in-developer-portal/m-p/3104733/page/3) in developer portal 
 
+## Next steps 
+* Deployment for .Net Framework Rest API's [here](https://www.c-sharpcorner.com/article/hosting-asp-net-web-api-rest-service-on-iis-10/)
 
