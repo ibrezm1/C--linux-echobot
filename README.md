@@ -47,3 +47,9 @@ Known issues to be aware of :
 * Deployment for .Net Framework Rest API's [here](https://www.c-sharpcorner.com/article/hosting-asp-net-web-api-rest-service-on-iis-10/)
 * More on Deploying on server core with framework [here](https://www.youtube.com/watch?v=iu9ei66_KLo)
 
+## Tools 
+* Installed versions [here](https://learn.microsoft.com/en-us/dotnet/framework/migration-guide/how-to-determine-which-versions-are-installed)
+* Installation of framework [here](https://bobcares.com/blog/install-net-framework-4-8-on-windows-server-2016/)
+* Webserver on IIS [here](https://cloud.google.com/compute/docs/tutorials/basic-webserver-iis)
+* Good search [here](https://www.google.com/search?q=powershell+enable+iis+features+windowser+server+gcp&sxsrf=ALiCzsaP54QU9iPRz3i8VFbP5MGTjQBETw%3A1665934951876&ei=ZyZMY_uRNce3z7sPmtWf4Aw&ved=0ahUKEwi74Zmoi-X6AhXH23MBHZrqB8wQ4dUDCA4&uact=5&oq=powershell+enable+iis+features+windowser+server+gcp&gs_lcp=Cgdnd3Mtd2l6EAMyBwghEKABEAo6CggAEEcQ1gQQsAM6DQgAEOQCENYEELADGAE6CgghEBYQHhAKEB1KBAhNGAFKBAhBGABKBAhGGAFQhgFY9wxg3w9oAXAAeACAAbgBiAGDBZIBAzAuNJgBAKABAcgBDcABAdoBBggBEAEYCQ&sclient=gws-wiz)
+
