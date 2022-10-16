@@ -45,4 +45,5 @@ Known issues to be aware of :
 
 ## Next steps 
 * Deployment for .Net Framework Rest API's [here](https://www.c-sharpcorner.com/article/hosting-asp-net-web-api-rest-service-on-iis-10/)
+* More on Deploying on server core with framework [here](https://www.youtube.com/watch?v=iu9ei66_KLo)
 
